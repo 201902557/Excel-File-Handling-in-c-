@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678918056 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\excel file handling\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<sstream>
+	<fstream>
+
